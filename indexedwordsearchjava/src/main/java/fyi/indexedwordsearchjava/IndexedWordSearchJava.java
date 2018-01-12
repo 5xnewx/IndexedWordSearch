@@ -35,7 +35,7 @@ public class IndexedWordSearchJava {
      *
      * @return the minimum index limit
      */
-    public int getMINIMUM_INDEX_LIMIT() {
+    public int getMinimumIndexLimit() {
         return MINIMUM_INDEX_LIMIT;
     }
 
@@ -45,7 +45,7 @@ public class IndexedWordSearchJava {
      *
      * @param MINIMUM_INDEX_LIMIT the minimum index limit
      */
-    public void setMINIMUM_INDEX_LIMIT(int MINIMUM_INDEX_LIMIT) {
+    public void setMinimumIndexLimit(int MINIMUM_INDEX_LIMIT) {
         this.MINIMUM_INDEX_LIMIT = MINIMUM_INDEX_LIMIT;
     }
 
@@ -54,7 +54,7 @@ public class IndexedWordSearchJava {
      *
      * @return the maximum index limit
      */
-    public int getMAXIMUM_INDEX_LIMIT() {
+    public int getMaximumIndexLimit() {
         return MAXIMUM_INDEX_LIMIT;
     }
 
@@ -64,7 +64,7 @@ public class IndexedWordSearchJava {
      *
      * @param MAXIMUM_INDEX_LIMIT the maximum index limit
      */
-    public void setMAXIMUM_INDEX_LIMIT(int MAXIMUM_INDEX_LIMIT) {
+    public void setMaximumIndexLimit(int MAXIMUM_INDEX_LIMIT) {
         this.MAXIMUM_INDEX_LIMIT = MAXIMUM_INDEX_LIMIT;
     }
 
